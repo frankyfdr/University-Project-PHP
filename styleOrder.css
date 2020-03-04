@@ -1,0 +1,46 @@
+body {
+    background-color: grey;
+}
+
+div{
+   
+    margin-left: 20%;
+    
+}
+p{
+    margin: 40px;
+}
+
+table{
+    width: 21cm;
+    height: 29.7cm;
+    border: 1px solid;
+}
+.msg{
+    word-break: break-word;
+}
+td{
+   background-color: white;
+    vertical-align: top;
+    width: 12cm;
+    height: 14.5cm;
+    border: 1px solid;
+    font-weight: bold;
+   
+}
+.title{
+    font-size: 24;
+   
+   
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+text{
+   
+    font-weight: normal;
+}
+.steps{
+    font-weight: bolder;
+    font-size: 18;
+    
+}
